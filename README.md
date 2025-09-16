@@ -24,15 +24,6 @@ This is a Python-based email scraping tool that extracts valid email addresses f
 
 ---
 
-## 🗂️ Folder Structure
-
-scrap-email/
-│
-├── main.py # Main script
-├── scrap_emails.csv # Output file (after scraping)
-├── requirements.txt # List of required packages
-└── README.md # Project documentation
-
 
 ---
 
